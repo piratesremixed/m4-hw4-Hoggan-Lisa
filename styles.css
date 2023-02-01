@@ -1,1 +1,34 @@
-<link rel="stylesheet" type="text/css" href="styles.css"/>
+
+h1 {
+    font-size: 40px;
+    color: #ff0000;
+    text-align: center;
+}
+h2, h3, p {
+    text-align: center;
+    
+}
+div p{
+    background-color: aqua;
+}
+nav{
+    text-align: center;
+}
+
+ul {
+    background-color: bisque;
+    
+}
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+  
+
+img{
+    padding: 10px; 
+  }
