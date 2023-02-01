@@ -4,16 +4,14 @@ h1 {
     color: #ff0000;
     text-align: center;
 }
-h2, h3, p {
+h2, h3, p, nav {
     text-align: center;
     
 }
 div p{
     background-color: aqua;
 }
-nav{
-    text-align: center;
-}
+
 
 ul {
     background-color: bisque;
